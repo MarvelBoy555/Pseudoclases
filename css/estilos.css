@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    background-image: url(../images/maxresdefault.jpg);
+    background-size: cover;
+}
+.fondorojo {
+    background-color: red;
+}
+
+.fondonegro {
+    background-color: black;
+    background-image: url(../images/);
+    background-size: cover; 
+}
+
+.fondoazul {
+    background-color: rgb(4, 44, 59);
+
+}
+
+.maluma{
+    background-color: chocolate;
+}
+
+.altura3{
+    height: 20rem;
+}
+
+.altura1 {
+    height: 5rem;
+}
+
+.altura2 {
+    height: 5rem;
+}
